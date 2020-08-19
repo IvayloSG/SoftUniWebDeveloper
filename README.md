@@ -1,0 +1,1 @@
+All SoftUni Assignments 

@@ -3,5 +3,3 @@ function toUpperCase(inputString) {
 
     console.log(result.join(", "));
 }
-
-toUpperCase("Hi, madafaka bitch shte ti eba maikata")

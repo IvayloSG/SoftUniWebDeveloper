@@ -1,0 +1,13 @@
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.exe
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.deps.json
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.runtimeconfig.json
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.runtimeconfig.dev.json
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.dll
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\bin\Debug\netcoreapp3.1\P02Expression.pdb
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.csprojAssemblyReference.cache
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.AssemblyInfoInputs.cache
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.AssemblyInfo.cs
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.dll
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.pdb
+C:\Users\Ivaylo\OneDrive\Desktop\Dev\SoftUniWebDeveloper\01C#ProgramingBasics\01FirstStepsInCoding\P02Expression\obj\Debug\netcoreapp3.1\P02Expression.genruntimeconfig.cache

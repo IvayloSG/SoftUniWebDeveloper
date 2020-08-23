@@ -1,4 +1,4 @@
-function greatestDevisor (a, b) {
+function greatestDevisor(a, b) {
     let maxDivisor = 1;
     let stoper = Math.min(a, b);
 
@@ -10,5 +10,3 @@ function greatestDevisor (a, b) {
 
     console.log(maxDivisor);
 }
-
-greatestDevisor(5, 15);

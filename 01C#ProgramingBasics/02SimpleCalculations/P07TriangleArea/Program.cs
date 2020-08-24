@@ -11,7 +11,7 @@ namespace P07TriangleArea
 
             double area = side * height / 2;
 
-            Console.WriteLine($"{area:f2}");
+            Console.WriteLine($"Triangle area = {area:f2}");
         }
     }
 }

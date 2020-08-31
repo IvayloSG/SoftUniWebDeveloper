@@ -31,9 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P13Sppedinfo", "P13Sppedinf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P14UnitConvertor", "P14UnitConvertor\P14UnitConvertor.csproj", "{744614FF-5E02-41E2-90B4-08049A48F4DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P15TimePlusMinutes", "P15TimePlusMinutes\P15TimePlusMinutes.csproj", "{2898C3AD-C3F3-4A73-B0AD-301FB5C8B099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15TimePlusMinutes", "P15TimePlusMinutes\P15TimePlusMinutes.csproj", "{2898C3AD-C3F3-4A73-B0AD-301FB5C8B099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P16ThreeBrothers", "P16ThreeBrothers\P16ThreeBrothers.csproj", "{689B6840-8ECA-4844-A3D9-0ADA390A574C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16ThreeBrothers", "P16ThreeBrothers\P16ThreeBrothers.csproj", "{689B6840-8ECA-4844-A3D9-0ADA390A574C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17Scholarship", "P17Scholarship\P17Scholarship.csproj", "{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18Choreography", "P18Choreography\P18Choreography.csproj", "{EAC514DB-6132-4403-A04E-B71DBBF53DE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{689B6840-8ECA-4844-A3D9-0ADA390A574C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{689B6840-8ECA-4844-A3D9-0ADA390A574C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{689B6840-8ECA-4844-A3D9-0ADA390A574C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

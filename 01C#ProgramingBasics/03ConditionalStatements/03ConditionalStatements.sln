@@ -35,9 +35,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P15TimePlusMinutes", "P15Ti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P16ThreeBrothers", "P16ThreeBrothers\P16ThreeBrothers.csproj", "{689B6840-8ECA-4844-A3D9-0ADA390A574C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P17Scholarship", "P17Scholarship\P17Scholarship.csproj", "{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P17Scholarship", "P17Scholarship\P17Scholarship.csproj", "{E77816B9-BAAA-4E2E-A890-3A406BDACCEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P18Choreography", "P18Choreography\P18Choreography.csproj", "{EAC514DB-6132-4403-A04E-B71DBBF53DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P18Choreography", "P18Choreography\P18Choreography.csproj", "{EAC514DB-6132-4403-A04E-B71DBBF53DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P19SwimmingRecord", "P19SwimmingRecord\P19SwimmingRecord.csproj", "{96F627E3-CA73-4BB4-93CA-4FFB8B3C1C91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAC514DB-6132-4403-A04E-B71DBBF53DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F627E3-CA73-4BB4-93CA-4FFB8B3C1C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F627E3-CA73-4BB4-93CA-4FFB8B3C1C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F627E3-CA73-4BB4-93CA-4FFB8B3C1C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F627E3-CA73-4BB4-93CA-4FFB8B3C1C91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

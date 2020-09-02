@@ -15,7 +15,7 @@ namespace P19SwimmingRecord
 
             double time = distanceRecord * secondsPerMeter + toalDelay;
 
-            if (time > worldRecord)
+            if (time >= worldRecord)
             {
                 double timeNeeded = time - worldRecord;
                 Console.WriteLine($"No, he failed! He was {timeNeeded:f2} seconds slower.");

@@ -12,3 +12,5 @@ function calculator(firstNumber, secondNumber, operator) {
 
     console.log(result);
 }
+
+calculator(4, 4, "+")
